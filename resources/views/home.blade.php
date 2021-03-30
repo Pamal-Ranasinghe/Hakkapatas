@@ -28,7 +28,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    හක්ක පටස්
+                    හක්ක පටස් dfdadadsadasdasdasd
                 </div>
 
                 <div class="links">
